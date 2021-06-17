@@ -24,6 +24,7 @@ It is interesting to do Kata tasks on the site [codewars.com](https://www.codewa
 
 ### **My project:**
 * JavaScript ES6
+    * [Momentum](https://github.com/marinatwice82/momentum) shows the time and username, his goal for the current day. The background image changes depending on the time of day. The application uses local storage to store data. For data storage, the application uses local storage - local storage.
     * [Virtual-piano](https://github.com/marinatwice82/virtual-piano)
     * [Calculator](https://github.com/marinatwice82/calculator)
 * HTML5/CSS3
