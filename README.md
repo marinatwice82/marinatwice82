@@ -23,6 +23,8 @@ It is interesting to do Kata tasks on the site [codewars.com](https://www.codewa
 <br>
 
 ### **My project:**
+* React
+    * [React-game](https://github.com/marinatwice82/react-game/pull/1) a simple tic-tac-toe game known to everyone since childhood, implemented using the React library
 * JavaScript ES6
     * [Photo-filter](https://github.com/marinatwice82/photo-filter) the application that allows you to add css filters to an image and save the image with the filters applied to it. You can upload an image to the app from your computer or from a url.
     * [Covid-dashboard](https://github.com/marinatwice82/covid-dashboard/) the application for tracking the spread of COVID-19 in the world and in individual countries. The information is presented in the form of a table, a list, a graph, and an interactive map.
